@@ -1,0 +1,2 @@
+# PlayniteTool
+Playnite Tool
